@@ -1,0 +1,8 @@
+[__config__]
+oldver = ".github/oldver.json"
+newver = ".github/newver.json"
+
+[upstream]
+source = "git"
+git = "https://github.com/Mbed-TLS/mbedtls.git"
+prefix = "v"

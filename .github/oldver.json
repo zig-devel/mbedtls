@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "data": {
+    "upstream": {
+      "version": "4.0.0",
+      "gitref": "refs/tags/v4.0.0",
+      "revision": "e90c16439e2158ca5660db36b27648332cddd2cf"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+version = 1
+
+[[annotations]]
+path = [
+    "README.md",
+    "REUSE.toml",
+    "tests.zig",
+    "build.zig",
+    "build.zig.zon",
+    ".nvchecker.toml",
+    ".gitignore",
+    ".gitattributes",
+    ".github/**/*.yml",
+    ".github/oldver.json",
+    ".github/newver.json",
+]
+SPDX-FileCopyrightText = "Zig Devel contributors"
+SPDX-License-Identifier = "0BSD OR Apache-2.0"
