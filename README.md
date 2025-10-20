@@ -7,7 +7,7 @@ An open source, portable, easy to use, readable and flexible TLS library
 Install library:
 
 ```sh
-zig fetch --save zig fetch --save https://github.com/zig-devel/mbedtls/archive/refs/tags/3.6.5-0.tar.gz
+zig fetch --save https://github.com/zig-devel/mbedtls/archive/refs/tags/3.6.5-0.tar.gz
 ```
 
 Statically link with `mod` module:
