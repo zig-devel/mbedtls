@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "upstream": {
-      "version": "4.0.0",
-      "gitref": "refs/tags/v4.0.0",
-      "revision": "e90c16439e2158ca5660db36b27648332cddd2cf"
+      "version": "3.6.5",
+      "gitref": "refs/tags/v3.6.5",
+      "revision": "d934b47669d1cc60c72caecae2ae2a45aea70c79"
     }
   }
 }
